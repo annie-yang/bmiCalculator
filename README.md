@@ -1,3 +1,19 @@
+	View site live, click <a href="https://goo.gl/jk0sRh" target="_blank">here</a><br/><br/>
+<p>Libary used:</p>
+<ul>
+  <li><a href="https://goo.gl/KLePN8" target="_blank">React</a></li>
+</ul>
+<p>Package manager used:</p>
+<ul>
+  <li><a href="https://goo.gl/OuM1W1" target="_blank">Yarn</a></li>
+</ul>
+<p>Bundler used:</p>
+<ul>
+  <li><a href="https://goo.gl/yO1Ks" target="_blank">Heroku Buildpack</a></li>
+</ul>
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
