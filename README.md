@@ -1,4 +1,4 @@
-	View site live, click <a href="https://goo.gl/jk0sRh" target="_blank">here</a><br/><br/>
+View site live: https://goo.gl/jk0sRh
 <p>Libary used:</p>
 <ul>
   <li><a href="https://goo.gl/KLePN8" target="_blank">React</a></li>
